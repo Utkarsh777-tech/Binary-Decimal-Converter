@@ -4,15 +4,7 @@ Binary Decimal Converter using HTML,CSS and JAVASCRIPT.
 
 A web-based application for converting binary numbers to decimal and vice versa, built using HTML, CSS, and JavaScript. This project is designed to provide an intuitive user experience while demonstrating fundamental programming concepts.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [Usage Guidelines](#usage-guidelines)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -31,22 +23,12 @@ The Binary-Decimal Converter allows users to seamlessly convert binary values to
 - **CSS**: For styling and layout, enhancing visual appeal.
 - **JavaScript**: For implementing conversion logic and interactivity.
 
-## Installation Instructions
 
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Binary-Decimal-Converter.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd Binary-Decimal-Converter
-   ```
-
-3. **Open the application**: Launch `structure.html` in your preferred web browser.
-
+## Structure of project
+Binary Decimal converter
+├── structure.html       # The main HTML file
+├── style.css        # The CSS stylesheet for styling
+└── binary.js        # JavaScript file for functionality
 ## Usage Guidelines
 
 1. **Launch the application** in your web browser.
