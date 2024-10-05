@@ -45,7 +45,7 @@ To set up the project locally, follow these steps:
    cd Binary-Decimal-Converter
    ```
 
-3. **Open the application**: Launch `.html` in your preferred web browser.
+3. **Open the application**: Launch `structure.html` in your preferred web browser.
 
 ## Usage Guidelines
 
